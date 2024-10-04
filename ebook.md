@@ -1,3 +1,4 @@
+### npm run dev ###
 # Criando um novo projeto
 ## Recomendamos usarpnpmcomo seu gerenciador de pacotes, pois é mais rápido e eficiente que npmou yarn. Se você não tiver pnpm instalado, você pode instalá-lo globalmente executando: ##
 npm install -g pnpm
